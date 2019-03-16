@@ -1,6 +1,6 @@
 Simple script to initialize git directory and push it to gitlab
 
-it will also create a hello world file, feel free to change it
+it will also create a hello world file for golang, feel free to change it
 
 you might have to enter your credentials 
 
